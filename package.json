@@ -11,5 +11,8 @@
   "dependencies": {
     "jimp": "^0.16.1",
     "nanoid": "^3.2.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.1066.0"
   }
 }
